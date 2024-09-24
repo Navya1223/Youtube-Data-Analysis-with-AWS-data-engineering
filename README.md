@@ -46,23 +46,6 @@ This GitHub project demonstrates a comprehensive data engineering pipeline for a
 
 - **Athena Queries:** For querying the final dataset.
 
-- **QuickSight Dashboard:** For data visualization.
-
-### QuickSight Dashboard
-
-You can view the QuickSight dashboard created for this project [here](https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/8c6a945d-641a-47b3-8aeb-48c416077969).
-
-This project exemplifies a robust data engineering pipeline leveraging AWS services to process and analyze YouTube data efficiently. The integration of these services provides a scalable solution for handling large datasets and deriving meaningful insights through data visualization.
-
-
-
-
-![dashboard](https://github.com/har-shu/YouTube-Data-Analysis-with-AWS-Data-Engineering/assets/71369996/fba2de47-6d08-4e13-8ea1-007f7376b8a9)
-
-
-
-
-
 ## Repository Structure
 
 ```
